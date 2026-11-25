@@ -1,4 +1,4 @@
-# 🎬 Netflix Recommendation Engine
+# 🎬 Movie Recommendation Engine
 
 An AI-powered movie recommendation engine built with **Spring Boot** and **Spring AI**. It uses a local **all-MiniLM-L6-v2** embedding model to understand the semantic meaning of movie descriptions and user queries.
 
